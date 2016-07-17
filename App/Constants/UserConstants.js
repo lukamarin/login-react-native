@@ -1,0 +1,1 @@
+module.exports = {'FACEBOOK_SIGN_IN': 'FACEBOOK_SIGN_IN', 'SIGN_OUT': 'SIGN_OUT'}
