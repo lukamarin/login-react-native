@@ -10,6 +10,6 @@
 
 Check out the example gif below (sorry it's a bit heavy) to see it in action. Note that it is in the simulator so it uses the browser for Facebook auth; it will use the Facebook app if it is available. Video background is implemented with [react-native-video](https://github.com/brentvatne/react-native-video), the gradient for the button with [react-native-linear-gradient](https://github.com/brentvatne/react-native-linear-gradient), and the 'About this project' modal with [react-native-modal](https://github.com/brentvatne/react-native-modal).
 
-![Demo gif](https://github.com/brentvatne/facebook-login/blob/master/demo!!!.gif)
+![Demo gif](https://github.com/lukamarin/login-react-native/blob/master/demo!!!.gif)
 
 *`background.mp4` does not belong to me, I borrowed it from airbnb.com*
